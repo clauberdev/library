@@ -1,0 +1,43 @@
+
+/* reset */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+button {
+    background: #1c87c9;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+h1,
+h2,
+p {
+    margin: 0 0 20px;
+    border: 1px solid green;
+}
+
+form {
+    display: none;
+    padding: 25px;
+    margin: 25px;
+    background: #eee;
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 20px;
+    outline: none;
+}
+
+ul {
+    margin: 30px;
+}
